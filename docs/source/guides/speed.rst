@@ -311,7 +311,7 @@ Learn more in our :ref:`trainer_flags` guide.
 Preload Data Into RAM
 *********************
 
-**Use when:** you need access to all samples in a dataset at once. 
+**Use when:** you need access to all samples in a dataset at once.
 
 When your training or preprocessing requires many operations to be performed on entire dataset(s), it can
 sometimes be beneficial to store all data in RAM given there is enough space.
